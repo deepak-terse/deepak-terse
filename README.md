@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Deepak Terse
 
-A Software Developer who is primarily into Full stack development but have an exposure to few other things like mobile app development, BI reporting/analytics and DevOps which helps me to think wholistically and to build better end to end solutions for specific business needs.
+A Software Developer who is primarily into **Full stack development** but have an exposure to few other things like **mobile app development**, **BI reporting/analytics** and **DevOps** which helps me to think wholistically and to build better end to end solutions for specific business needs.
 
 ### Things I Do:
 
