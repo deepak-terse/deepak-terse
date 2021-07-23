@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Deepak Terse
 
-#### A Software Developer who is primarily into Full stack development but have an exposure to few other things like mobile app development, BI reporting/analytics and DevOps which helps me to think wholistically and to build better end to end solutions for specific business needs.
+A Software Developer who is primarily into Full stack development but have an exposure to few other things like mobile app development, BI reporting/analytics and DevOps which helps me to think wholistically and to build better end to end solutions for specific business needs.
 
 ### Things I Do:
 
@@ -40,24 +40,24 @@ I would be more than happy to help you.
 #### Web Development: 
 
 <p>  
-  <img alt="Angular" src="https://angular.io/assets/images/logos/angular/angular.png" height="50"/>&nbsp;&nbsp;
-  <img alt="React" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="50"/>&nbsp;&nbsp;
-  <img alt="Next Js" src="https://images.ctfassets.net/hb3id6ag4raq/6NcXL0fTlSXR9tVL14LYJ/c6a2a3dea44cbf46826cd6d5596b5797/apple-touch-icon.png" height="50"/>&nbsp;&nbsp;
-  <img alt="Node JS" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50"/>&nbsp;&nbsp;
+  <img alt="Angular" src="https://angular.io/assets/images/logos/angular/angular.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="React" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Next Js" src="https://images.ctfassets.net/hb3id6ag4raq/6NcXL0fTlSXR9tVL14LYJ/c6a2a3dea44cbf46826cd6d5596b5797/apple-touch-icon.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Node JS" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Sails" src="https://deepak-terse.github.io/assets/images/resume/web/sails.png" height="50"/>
 </p>
 
 #### Mobile App Development:
 
 <p>
-  <img alt="Flutter" src="https://img.stackshare.io/service/7180/flutter-mark-square-100.png" height="50"/>&nbsp;&nbsp;
+  <img alt="Flutter" src="https://img.stackshare.io/service/7180/flutter-mark-square-100.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="React Native" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="50"/>
 </p>
 
 ### Databses and Data Management:
 
 <p>
-  <img alt="Mongo DB" src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png" height="50"/>&nbsp;&nbsp;
+  <img alt="Mongo DB" src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="My SQL" src="https://deepak-terse.github.io/assets/images/resume/database/sql.png" height="50"/>
   <img alt="Redux" src="https://deepak-terse.github.io/assets/images/resume/database/redux.png" height="50"/>
 </p>
@@ -66,14 +66,14 @@ I would be more than happy to help you.
 ### Analytics and Reporting:
 
 <p>
-  <img alt="Google Analytics" src="https://deepak-terse.github.io/assets/images/resume/data/google.png" height="50"/>&nbsp;&nbsp;
-  <img alt="Pentaho ETL" src="https://deepak-terse.github.io/assets/images/resume/data/pentaho.png" height="50"/>&nbsp;&nbsp;
-  <img alt="Jasper Reports" src="https://deepak-terse.github.io/assets/images/resume/data/jaspersoft.png" height="50"/>
+  <img alt="Google Analytics" src="https://deepak-terse.github.io/assets/images/resume/data/google.png" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Pentaho ETL" src="https://deepak-terse.github.io/assets/images/resume/data/pentaho.png" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Jasper Reports" src="https://deepak-terse.github.io/assets/images/resume/data/jaspersoft.png" height="40"/>
 </p>
 
 ### DevOps:
 
 <p>
-  <img alt="Amazon Web Services" src="https://deepak-terse.github.io/assets/images/resume/solution/awws.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Docker" src="https://deepak-terse.github.io/assets/images/resume/solution/docker.png" height="50"/>
+  <img alt="Amazon Web Services" src="https://deepak-terse.github.io/assets/images/resume/solution/awws.png" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Docker" src="https://deepak-terse.github.io/assets/images/resume/solution/docker.png" height="40"/>
 </p>
