@@ -18,7 +18,7 @@ A Software Developer who is primarily into **Full stack development** but have a
 - You want my help fixing your issues/bugs 🐞
 - You are looking for working opportunities 👨‍💻
 
-I would be more than happy to help you.
+I would be more than happy to help you. Also, please have a look at my <a href="https://gist.github.com/deepak-terse">gists</a> which includes code snippets that could be handy for you as a developer and solution to common programming interview questions.
 
 ### You can connect with me on:
 <p>
