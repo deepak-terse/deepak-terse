@@ -42,7 +42,7 @@ I would be more than happy to help you. Also, please have a look at my <a href="
 <p>  
   <img alt="Angular" src="https://angular.io/assets/images/logos/angular/angular.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="React" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Next Js" src="https://images.ctfassets.net/hb3id6ag4raq/6NcXL0fTlSXR9tVL14LYJ/c6a2a3dea44cbf46826cd6d5596b5797/apple-touch-icon.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Next Js" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Node JS" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Sails" src="https://deepak-terse.github.io/assets/images/resume/web/sails.png" height="50"/>
 </p>
