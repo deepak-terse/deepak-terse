@@ -1,15 +1,15 @@
 # Hi there 👋 I'm Deepak Terse
 
-A Software Developer who is primarily into **Full stack development** but have an exposure to few other things like **mobile app development**, **BI reporting/analytics** and **DevOps** which helps me to think holistically and to build better end to end solutions for specific business needs.
+I'm a Software Developer with a primary focus on **full-stack web development**. However, I've also worked on **mobile app development**, **BI reporting/analytics**, and **DevOps** in the past which allows me to approach projects holistically, crafting end-to-end solutions that address specific business needs effectively. Excited to contribute and collaborate on innovative projects in the world of coding!
 
 ### Things I Do:
 
-- Work as a Full Stack Developer for **Touchkin** 🏢
+- Work as a Senior Full Stack Developer for **Wysa** 🏢
 - Develop personal and freelancing projects 💻
 - Write Blogs 📝
 
 ### Project's I'm working on:
-- My Portfolio website 🌐
+- Nothing atm
 
 ### Connect with me if:
 
