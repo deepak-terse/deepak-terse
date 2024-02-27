@@ -37,43 +37,43 @@ I would be more than happy to help you. Also, please have a look at my <a href="
 
 ## Tools and Techs I've worked on:
 
-#### Web Development: 
+#### Languages:
+  - Javascript
+  - Typescript
+  - Python
+  - PHP
+  - HTML / CSS
 
-<p>  
-  <img alt="Angular" src="https://angular.io/assets/images/logos/angular/angular.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="React" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Next Js" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Node JS" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Sails" src="https://deepak-terse.github.io/assets/images/resume/web/sails.png" height="50"/>
-</p>
+#### Back-end:
+  - Node JS
+  - Sails / Fastify
+
+#### Front-end:
+  - React
+  - Next JS
+  - Angular
+  - Vue JS
 
 #### Mobile App Development:
-
-<p>
-  <img alt="Flutter" src="https://img.stackshare.io/service/7180/flutter-mark-square-100.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="React Native" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="50"/>
-</p>
+  - Flutter
+  - React Native
+  - IOS Native (Swift)
 
 ### Databses and Data Management:
-
-<p>
-  <img alt="Mongo DB" src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="My SQL" src="https://deepak-terse.github.io/assets/images/resume/database/sql.png" height="50"/>
-  <img alt="Redux" src="https://deepak-terse.github.io/assets/images/resume/database/redux.png" height="50"/>
-</p>
-
+  - Mongo DB
+  - Redis
+  - Redux
+  - My SQL
 
 ### Analytics and Reporting:
-
-<p>
-  <img alt="Google Analytics" src="https://deepak-terse.github.io/assets/images/resume/data/google.png" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Pentaho ETL" src="https://deepak-terse.github.io/assets/images/resume/data/pentaho.png" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Jasper Reports" src="https://deepak-terse.github.io/assets/images/resume/data/jaspersoft.png" height="40"/>
-</p>
+  - Google Analytics
+  - Pentaho ETL
+  - Jasper Reports
 
 ### DevOps:
-
-<p>
-  <img alt="Amazon Web Services" src="https://deepak-terse.github.io/assets/images/resume/solution/awws.png" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Docker" src="https://deepak-terse.github.io/assets/images/resume/solution/docker.png" height="40"/>
-</p>
+  - Amazon Web Services
+  - Docker
+  - CI-CD / GitHub workflows
+  - Elastic Stack (ELK)
+  - Grafana
+  - SonarQube
