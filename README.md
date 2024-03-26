@@ -72,12 +72,13 @@ I would be more than happy to help you. Also, please have a look at my <a href="
 
 ### Analytics and Reporting:
   - **Google Analytics**: Tracking and reporting website traffic
-  - **Elastic Stack (ELK)**: Searching, analyzing, and visualizing large datasets in real-time
   - **Pentaho**: Business intelligence and data integration platform used for ETL
   - **Jasper Reports, Grafana**: Creates and visualizes reports and dashboard
 
 ### DevOps:
   - **Amazon Web Services**: Cloud Services
   - **Docker**: Containerization
+  - **Elastic Stack (ELK)**: Searching, analyzing, and visualizing large datasets in real-time
+  - **PM2, Systemd, Nodemon, Forever**: Process management tools
   - **GitHub workflows**: Automated workflows for CI/CD
 
