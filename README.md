@@ -38,42 +38,46 @@ I would be more than happy to help you. Also, please have a look at my <a href="
 ## Tools and Techs I've worked on:
 
 #### Languages:
-  - Javascript
-  - Typescript
-  - Python
-  - PHP
-  - HTML / CSS
-
-#### Back-end:
-  - Node JS
-  - Sails / Fastify
+  - Javascript, Typescript - Scripting language for web development
+  - Python - General-purpose language
+  - HTML, CSS, SASS - Markup and styling languages for web pages
 
 #### Front-end:
-  - React
-  - Next JS
-  - Angular
-  - Vue JS
+  - React - Component-based library to build dynamic user interfaces
+  - Next JS - React framework that offers server-side rendering, static site generation and many more
+  - Angular - Typescript-based framework to build dynamic user interfaces
 
 #### Mobile App Development:
-  - Flutter
-  - React Native
-  - IOS Native (Swift)
+  - Ionic, Cordova - Hybrid app development
+  - Flutter - Cross-Platform Native app development
+  - Swift - Native app development
 
-### Databses and Data Management:
-  - Mongo DB
-  - Redis
-  - Redux
-  - My SQL
+#### Back-end:
+  - Node JS - JS Runtime environment
+  - Sails / Fastify - Node JS frameworks for writing APIs
+
+#### Development Libraries and Tools:
+  - Redux - State management service
+  - Jasmine, Jest - Testing framework for JS
+  - Prettier, ES Lint, Sonarqube - Code formatting, linting, and static code analysis
+  - LightHouse, PageSpeed: Performance evaluation tools for websites
+  - Vite, Webpack - Module bundlers for JS
+  - AWS SDK - Interacts and manages AWS through code
+  - Kafka, SQS - Messaging systems for distributed platforms
+
+### Databases:
+  - MongoDB - NoSQL databases
+  - MySQL, PostgreSQL - Relational databases
+  - Redis - In-memory data store used as a cache or message broker
 
 ### Analytics and Reporting:
-  - Google Analytics
-  - Pentaho ETL
-  - Jasper Reports
+  - Google Analytics - Tracking and reporting website traffic
+  - Elastic Stack (ELK) - Searching, analyzing, and visualizing large datasets in real-time
+  - Pentaho - Business intelligence and data integration platform used for ETL
+  - Jasper Reports, Grafana - Creates and visualizes reports and dashboard
 
 ### DevOps:
-  - Amazon Web Services
-  - Docker
-  - CI-CD / GitHub workflows
-  - Elastic Stack (ELK)
-  - Grafana
-  - SonarQube
+  - Amazon Web Services - Cloud Services
+  - Docker - Containerization
+  - GitHub workflows - Automated workflows for CI/CD
+
