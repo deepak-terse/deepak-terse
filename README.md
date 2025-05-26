@@ -9,7 +9,7 @@ I'm a Software Developer with a primary focus on **full-stack web development**.
 - Write Blogs 📝
 
 ### Project's I'm working on:
-- Nothing atm
+- J.A.R.V.I.S., an AI assistant
 
 ### Connect with me if:
 
