@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-terse&label=Profile%20views&color=8E4585&style=flat" alt="deepak-terse" /> </p>
+
 # Hi there 👋 I'm Deepak Terse
 
 I'm a Software Developer with a primary focus on **full-stack web development**. However, I've also worked on **mobile app development**, **BI reporting/analytics**, and **DevOps** in the past which allows me to approach projects holistically, crafting end-to-end solutions that address specific business needs effectively. Excited to contribute and collaborate on innovative projects in the world of coding!
