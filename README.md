@@ -1,84 +1,77 @@
-# Hi there 👋 I'm Deepak Terse
+# Hi, I'm Deepak 👋
 
-I'm a Software Developer with a primary focus on **full-stack web development**. However, I've also worked on **mobile app development**, **BI reporting/analytics**, and **DevOps** in the past which allows me to approach projects holistically, crafting end-to-end solutions that address specific business needs effectively. Excited to contribute and collaborate on innovative projects in the world of coding!
+**Technical Architect · Full-stack Engineer · Builder**
 
-### Things I Do:
+I’m a software engineer with **10 years of experience** building and scaling web products across SaaS, healthcare, automotive, and other domains.
 
-- Work as a Senior Full Stack Developer for **Wysa** 🏢
-- Develop personal and freelancing projects 💻
-- Write Blogs 📝
+I enjoy working across the stack — from **product architecture and system design to frontend, backend, infrastructure, and AI-powered features**. I’m particularly interested in building products that are simple to use, technically sound, and built to scale.
 
-### Project's I'm working on:
-- Random stuffs
+Currently, I work on **multi-tenant SaaS platforms and AI-powered systems**, while continuing to build and experiment with ideas of my own.
 
-### Connect with me if:
+---
 
-- You have some business idea and need some help with tech 💡
-- You want me to write technical blogs for you 📝
-- You want my help fixing your issues/bugs 🐞
-- You are looking for working opportunities 👨‍💻
+### What I work with
 
-I would be more than happy to help you. Also, please have a look at my <a href="https://gist.github.com/deepak-terse">gists</a> which includes code snippets that could be handy for you as a developer and solution to common programming interview questions.
+**Languages & Web**
+`JavaScript` `TypeScript` `Python` `Node.js` `React` `Next.js`
 
-### You can connect with me on:
-<p>
-  <a href="https://www.linkedin.com/in/deepak-terse/">
-    <img alt="linkedin" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-circle-1868976-1583140.png" height="30"/>  
-  </a>&nbsp;
-  <a href="https://medium.com/@iamdeepakterse">
-    <img alt="medium" src="https://www.asynsis.com/wp-content/uploads/2017/03/medium.png" height="30"/>  
-  </a>&nbsp;
-  <a href="mailto:iamdeepakterse@gmail.com">
-    <img alt="mail" src="https://www.cincyredbike.org/wp-content/uploads/2017/10/email.png" height="30"/>  
-  </a>
-</p>
+**Data & Infrastructure**
+`PostgreSQL` `MongoDB` `Redis` `OpenSearch` `AWS` `Docker` `CI/CD` `ELK`
 
-<br/>
+**Architecture**
+`Microservices` `Multi-tenant SaaS` `Clean Architecture` `REST APIs` `Monorepos`
 
-## Tools and Techs I've worked on:
+**AI**
+`LLMs` `RAG` `Semantic Search` `Agentic AI`
 
-#### Languages:
-  - **Javascript, Typescript**: Scripting language for web development
-  - **Python**: General-purpose language
-  - **HTML, CSS, SASS**: Markup and styling languages for web pages
+---
 
-#### Front-end:
-  - **React**: Component-based library to build dynamic user interfaces
-  - **Next JS**: React framework that offers server-side rendering, static site generation and many more
-  - **Angular**: Typescript-based framework to build dynamic user interfaces
+### What I've been building
 
-#### Mobile App Development:
-  - **Ionic, Cordova**: Hybrid app development
-  - **Flutter**: Cross-Platform Native app development
-  - **Swift**: Native app development
+🔹 **Multi-tenant SaaS**
+Architecting and building a platform from the ground up for global automotive OEMs, including platform capabilities such as multi-tenancy, RBAC/SBAC, feature flags, analytics, localization, testing, migrations, and reusable packages.
 
-#### Back-end:
-  - **Node JS**: JS Runtime environment
-  - **Sails / Fastify**: Node JS frameworks for writing APIs
+🔹 **AI-powered search**
+Built a multimodal RAG-based search system over large document collections.
 
-#### Development Libraries and Tools:
-  - **Redux**: State management service
-  - **Jasmine, Jest**: Testing framework for JS
-  - **Prettier, ES Lint, Sonarqube**: Code formatting, linting, and static code analysis
-  - **LightHouse, PageSpeed**: Performance evaluation tools for websites
-  - **Vite, Webpack**: Module bundlers for JS
-  - **AWS SDK**: Interacts and manages AWS through code
-  - **Kafka, SQS**: Messaging systems for distributed platforms
+🔹 **High-scale health platforms**
+Worked on systems serving millions of users and processing millions of health metrics from platforms such as Google Fit, HealthKit, and Garmin.
 
-### Databases:
-  - **MongoDB**: NoSQL databases
-  - **MySQL, PostgreSQL**: Relational databases
-  - **Redis**: In-memory data store used as a cache or message broker
+🔹 **Developer tooling**
+Built internal tools, reusable NPM packages, monorepos, and automation that improved engineering productivity.
 
-### Analytics and Reporting:
-  - **Google Analytics**: Tracking and reporting website traffic
-  - **Pentaho**: Business intelligence and data integration platform used for ETL
-  - **Jasper Reports, Grafana**: Creates and visualizes reports and dashboard
+---
 
-### DevOps:
-  - **Amazon Web Services**: Cloud Services
-  - **Docker**: Containerization
-  - **Elastic Stack (ELK)**: Searching, analyzing, and visualizing large datasets in real-time
-  - **PM2, Systemd, Nodemon, Forever**: Process management tools
-  - **GitHub workflows**: Automated workflows for CI/CD
+### Things I build outside work
 
+I like using personal projects as a way to learn by building rather than just reading about new technology.
+
+* 📰 **Privacy-first News Platform** — article clustering, deduplication, semantic search, and personalized widgets.
+* 🤖 **JARVIS** — a local AI voice assistant exploring privacy-first and agentic workflows.
+* ✨ **AI Summarizer** — Chrome extension for page summarization and contextual Q&A using on-device AI.
+* ⚛️ **React UI Templates** — reusable templates for quickly building CRUD applications.
+
+---
+
+### A little more about me
+
+* 🏗️ I enjoy **architecture and solving problems end-to-end**
+* 🤖 Currently exploring **LLMs, RAG, and agentic AI**
+* ⚡ Interested in **performance, scalability, and developer experience**
+* 🧪 I like experimenting with new technologies through side projects
+* 📝 Occasionally write about things I learn while building
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/deepak-terse/) ·
+[Medium](https://medium.com/@iamdeepakterse) ·
+[GitHub](https://github.com/deepak-terse) ·
+[Gists](https://gist.github.com/deepak-terse)
+
+📫 **Email:** [deepakterse230196@gmail.com](mailto:deepakterse230196@gmail.com)
+
+---
+
+> Build things. Learn continuously. Keep it simple.
