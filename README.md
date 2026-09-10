@@ -53,6 +53,12 @@ I like using personal projects as a way to learn by building rather than just re
 
 ---
 
+### Open Source
+
+- [Chatbox #2597](https://github.com/chatboxai/chatbox/pull/2597) — Improved Node/npm version enforcement and developer setup documentation.
+
+---
+
 ### A little more about me
 
 * 🏗️ I enjoy **architecture and solving problems end-to-end**
