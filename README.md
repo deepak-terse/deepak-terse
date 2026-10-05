@@ -1,6 +1,6 @@
 # Hi, I'm Deepak 👋
 
-**Technical Architect · Full-stack Engineer**
+**Technical Architect · Full-stack & AI Engineer**
 
 I’m a software engineer with **10 years of experience** building and scaling web products across SaaS, healthcare, automotive, and other domains.
 
